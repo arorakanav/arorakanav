@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Software Engineer
-- 👀 I’m interested in problem solving
-- 💞️ I’m looking to collaborate on web projects.
+* I develop solutions using JavaScript , Typescript, Python3, PHP, C#, Java, C, and C++. Undergrad in Information Technology with a focus on Software Engineering & Artificial Intelligence. Experienced in building scalable full-stack web applications. I am a team player who takes ownership. My colleagues and managers rate me as ambitious, hardworking, and self-motivated.
+
 - 📫 How to reach me arora.kanav@pm.me
 ## Projects
 ### SWE
