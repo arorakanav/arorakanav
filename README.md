@@ -1,4 +1,4 @@
-- 👋 Hi, I develop solutions using JavaScript , Typescript, Python3, PHP, C#, Java, C, and C++. Undergrad in Information Technology with a focus on Software Engineering & Artificial Intelligence. Experienced in building scalable full-stack web applications. I am a team player who takes ownership.
+- 👋 Hi, I develop solutions using JavaScript , Typescript, Python3, PHP, C#, Java, C, and C++. Undergrad in Information Technology with a focus on Software Engineering & Artificial Intelligence. Experienced in building scalable full-stack web applications.
 
 - 📫 How to reach me arora.kanav@pm.me
 ## Projects
