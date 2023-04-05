@@ -22,11 +22,11 @@
 
 ## Skills
 ### Languages: 
-* Proficient: JavaScript, TypeScript, 
-* Prior experience: PHP, Python, C#, RSS, XML, HTML5, CSS3, Java8, C++, C, shell scripting
+* Proficient: JavaScript ES6+, TypeScript 3.4
+* Prior experience: PHP8, Python3, C#, RSS, XML, HTML5, CSS3, Java8, C++11, C11
 ### Databases: 
-* Proficient: MySQL
-* Prior Experience: MangoDb
+* Proficient: MySQL 5.7,8
+* Prior Experience: MangoDb4.2
 ### Cloud: 
  * AWS, Azure
 ### Frameworks: 
