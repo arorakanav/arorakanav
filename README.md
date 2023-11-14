@@ -1,22 +1,10 @@
-- 👋 Hi, I develop solutions using JavaScript , Typescript, Python3, PHP, C#, Java, C, and C++. Undergrad in Information Technology with a focus on Software Engineering & Artificial Intelligence. Experienced in building scalable full-stack web applications.
+- 👋 Hi, I develop solutions using Typescript, JavaScript, Python3, PHP, C#, Java, C, and C++. Undergrad in Information Technology with a focus on Software Engineering & Artificial Intelligence. Experienced in building scalable full-stack web applications.
 
 - 📫 How to reach me arora.kanav@pm.me
 ## Projects
-### SWE
-* coded a interpretor for simple mathematic calculations using yacc & bison
-* implement tsp using genetic algorithms and CUDA and openMP
-* Develop genetic algorithm to solve tsp in C.
+* Parallalie Genetic algorithm and CUDA and openMP.
+* Develop solutions for TSP in C using Genetic Algorithm.
 * Developed a C++ script to process video stream and identify objects in the region of Interest
-### ML & Data Anlytics
-* Used Apache Spark to compare  machine learning models to predict and death due to COVID19
-* Collect RSS news feed store in MOngoDB and perform sentiment analysis and draw word cloud using python.
-* Perform Statistcal analysis on car milage data
-### Web
-* Create a local PHP, mongo and Redis environment using docker compose.
-* Develop Tetris using React.js.
-* Developed. REST API using Express.js to fetch hashtag data from Twitter.
-* Developed full stack application to publish and get posts from Facebook and Twitter using React.js and Node.js and Amazon RDS.
-* Developed. REST API using Express.js to fetch hashtag data from Twitter.
 
 
 
