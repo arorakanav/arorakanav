@@ -7,7 +7,7 @@
 * Developed a C++ script to process video stream and identify objects in the region of Interest
 
 ## Experience
-### Full Stack Engineer  – Sonnet Insurance (Contract)            	Jun2022-Dec2022
+### Software Engineer  – Sonnet Insurance (Contract)            	Jun2022-Dec2022
 * Migrated ruby/angular monolith to micro apps using react, node.js, and GraphQL. Design API’s and microservices.
 * Architect and Develop payment gateway using PayPal and Moneris.
 * Languages & Frameworks: JavaScript(ES-6), Express.js, Node.js, React.js, GraphQL, Redis, PostgreSQL, fast-xml, node-soap, Unit Testing
