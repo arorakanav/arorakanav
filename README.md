@@ -7,17 +7,17 @@
 * Developed a C++ script to process video stream and identify objects in the region of Interest
 
 ## Experience
-### Software Engineer  – Sonnet Insurance (Contract)            	Jun2022-Dec2022
+### Senior Software Engineer  – Sonnet Insurance (Contract)            	Jun2022-Dec2022
 * Migrated ruby/angular monolith to micro apps using react, node.js, and GraphQL. Design API’s and microservices.
 * Architect and Develop payment gateway using PayPal and Moneris.
 * Languages & Frameworks: JavaScript(ES-6), Express.js, Node.js, React.js, GraphQL, Redis, PostgreSQL, fast-xml, node-soap, Unit Testing
 * Design patterns: DDD-oriented Microservices Architecture, CQRS pattern, Dependency Injection
-### Backend Engineer – Autodesk Canada Inc.(Contract)                    Sep2021 - Jun2022
+### Senior Backend Engineer – Autodesk Canada Inc.(Contract)                    Sep2021 - Jun2022
 * Contributed to the library supporting offline document editing for FUSION360. 
 * Investigate SDK performance degradation due to DB scaling.
 * Write Design specifications for client-side command and query registry.
 * Languages & Frameworks: Typescript, SQLite, Mocha, Chai.js, Cucumber, Lodash, Node.js, Swagger, Unit Testing, Integration Testing, E2E Testing
-### Tech Lead – EcoTech Windows & Doors     		Aug2020 - Sep2021
+### CTO/Principal Engineer – EcoTech Windows & Doors     		Aug2020 - Sep2021
 * Improve query Performance by database optimizations. 
 * Web data scraping, Warehousing, Database design.  
 * Server Management. 
@@ -27,7 +27,7 @@
 * Engage with shareholders.
 * Managed recruiting process frontend developers - Prepared assignments and interviewed candidates
 * Languages & Frameworks: PHP, JavaScript, MySQL, jQuery, Bootstrap, MVC
-### Frontend Engineer – Statusbew.com	 		        	Feb2018 - Aug2020
+### Principal Frontend Engineer – Statusbew.com	 		        	Feb2018 - Aug2020
 *	Design and develop the front end for the Reporting Module with the ability to build customized dashboards. Design and manage Modules, Services, Stores, and Pipes. Handle cross-browser dependencies using webpack and polyfill’s dependencies. Design angular wrapper for highchart.js
 *	Migrated Angular 7.1 to 8
 *	Managed recruiting process frontend developers - Prepared assignments and interviewed candidates
