@@ -37,9 +37,9 @@
 #### Areas of Interests: 
 * Computer Architecture, Operating Systems, Software Engineering and Project Management, Artificial Intelligence, Data Structures, Algorithms Design, Cloud Computing, Theory of Automata and Compiler Design, Engineering Economics and Management, Sustainability
 
-#### Post Graduate Certificate Big Data Analytics – Georgian College, Barrie	Jan20202 - Aug2020
+#### Post Graduate Certificate Big Data Analytics – Georgian College, Barrie	Jan2020 - Aug2020
 #### Areas of Interest: 
-* Statistics, Machine Learning, Data Systems Architecture, Data Collection and Curation, 
+* Statistics, Machine Learning, Data Systems Architecture, Data Collection and Curation
 
 <!---
 arorakanav/arorakanav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
