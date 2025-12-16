@@ -1,6 +1,7 @@
 - 👋 Hi, I develop solutions using Typescript, JavaScript, Python3, PHP, C#, Java, C, and C++. Bachelors in Information Technology with a focus on Software Engineering.
 
 - 📫 How to reach me arora.kanav@pm.me
+- [Linkedin](https://www.linkedin.com/in/arorakanav/)
 
 ## Experience
 ### Senior Software Engineer | Sonnet Insurance | Contract | Jun2022 - Dec2022
