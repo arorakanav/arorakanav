@@ -1,4 +1,4 @@
-- 👋 Hi, I develop solutions using Typescript, JavaScript, Python3, PHP, C#, Java, C, and C++. Bachelors in Information Technology with a focus on Software Engineering.
+- I develop software solutions using Typescript.
 
 - 📫 How to reach me arora.kanav@pm.me
 - [My Linkedin: https://www.linkedin.com/in/arorakanav/](https://www.linkedin.com/in/arorakanav/)
