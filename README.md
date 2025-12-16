@@ -1,7 +1,7 @@
 ## Summary
 - I have 4 years of experience developing solutions for Web Applications, using Typescript.
 - 📫 How to reach me arora.kanav@pm.me
-- [My Linkedin: https://www.linkedin.com/in/arorakanav/](https://www.linkedin.com/in/arorakanav/)
+- [My Linkedin: https://www.linkedin.com/in/arorakanav/](https://www.linkedin.com/in/arorakanav/) \n
 📍 Toronto, Ontario, CA 🇨🇦
 
 ## Experience
