@@ -24,11 +24,11 @@
 *	Managed recruiting process frontend developers - Prepared assignments and interviewed candidates
 *	Languages & Frameworks: Typescript(ES-6), Angular7.1, Angular8, NgRx, Rx.js, Flexbox, Angular Material, SASS, Angular Routing, Angular Forms, NGRX store, Rx.js, Lodash, moment.js, page pattern, module pattern, dependency Injection, High Charts.
 ## EDUCATION
-### Bachelor in Information Technology | Manipal University Jaipur, India | Aug2014 - Nov2018
+### Bachelor in Information Technology | Manipal University Jaipur | India | Aug2014 - Nov2018
 #### Areas of Interests: 
 * Computer Architecture, Operating Systems, Software Engineering and Project Management, Artificial Intelligence, Data Structures, Algorithms Design, Cloud Computing, Theory of Automata and Compiler Design, Engineering Economics and Management, Sustainability
 
-#### Post Graduate Certificate Big Data Analytics | Georgian College, Barrie | Jan2020 - Aug2020
+#### Post Graduate Certificate Big Data Analytics | Georgian College | Barrie | Jan2020 - Aug2020
 #### Areas of Interest: 
 * Statistics, Machine Learning, Data Systems Architecture, Data Collection and Curation
 
